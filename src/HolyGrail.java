@@ -2,14 +2,14 @@ import java.util.Scanner;
 
 /**
  * simple i/o project using scanner
- * @version 9.22.22
+ * @version 9.23.22
  * @author PSwigart
  */
 
 public class HolyGrail {
     /**
      * main method of class HolyGrail
-     * @param args command line argumenrss if needed
+     * @param args command line arguments if needed
      */
     public static void main(String[] args) {
         // declaring local variables
