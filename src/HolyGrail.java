@@ -27,6 +27,7 @@ public class HolyGrail {
         color = in.nextLine();
 
         System.out.println("King Arthur says, \"You have to know these things when you're a king, you know.\"");
+
         // summary of user input
         System.out.println("Your name is: " + name);
         System.out.println("Your quest is: " + quest);
